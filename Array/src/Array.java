@@ -188,9 +188,9 @@ public class Array {
 	}
 	
 	
-	// Main method
+	// Main method or entry point to our program
 	public static void main(String[] args) {
-		
+		// Implement an array here, and instantiate respective Array class to access/test non-static methods/algorithms
 	}
 }
 
